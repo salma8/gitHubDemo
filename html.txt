@@ -1,7 +1,8 @@
 <html>
 <head>
 <body>
-   <p>This is an HTML Page>
+   <p>This is an HTML Page</p>
+   <h2>This is heading</h2>
 </body>
 </head>
 </html>
